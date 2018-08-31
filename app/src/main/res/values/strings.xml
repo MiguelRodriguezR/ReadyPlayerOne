@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Music Library</string>
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="backdrop_title">MUSIC LIBRARY</string>
+    <string name="backdrop_subtitle">List of Albums and Songs</string>
+    <string name="action_play_song">Play Song</string>
+    <string name="action_queue_song">Add to Play List</string>
+    <string name="artist1">Charli</string>
+    <string name="artist2">Michael</string>
+    <string name="artist3">Maroon 5</string>
+    <string name="artist4">Lana</string>
+
+</resources>

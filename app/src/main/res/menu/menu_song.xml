@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_play_song"
+        android:orderInCategory="100"
+        android:title="@string/action_play_song" />
+
+    <item
+        android:id="@+id/action_enqueue"
+        android:orderInCategory="101"
+        android:title="@string/action_queue_song" />
+</menu>
